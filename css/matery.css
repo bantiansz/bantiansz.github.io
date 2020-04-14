@@ -250,7 +250,7 @@ mark {
 }
 
 .bg-color {
-    background-image: linear-gradient(to right, #4cbf30 0%, #0f9d58 100%);
+    background-image: linear-gradient(to right, #84eafc 0%, #47bef5 100%);
     /*这是我自己新增的导航栏透明效果*/
     opacity: 0.9;
 }
